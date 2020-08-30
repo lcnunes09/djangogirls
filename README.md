@@ -1,4 +1,4 @@
-# djangogirls
+# Django Girls
 Projeto Django Girls
 "We inspire women to fall in love with programming."
 
